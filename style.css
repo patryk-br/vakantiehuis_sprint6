@@ -1,12 +1,17 @@
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: #aca8a8;
-  padding: 10px;
+
+.btn-custom{
+    background-color: rgb (168, 102, 50);
 }
-.nav-links {
-  display: flex;
-  justify-content: space-around;
-  width: 100%;
+
+.btn-custom:hover{
+    color: rgb(168, 102, 50);
+}
+
+.nav-link:hover{
+      color: rgb(168, 102, 50);
+}
+
+
+body {
+  font-family: "Roboto", sans-serif;
 }
