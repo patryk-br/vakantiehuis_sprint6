@@ -13,14 +13,9 @@
             <!-- Add your search bar here -->
         </div>
         <div class="nav-links">
-            <a href="#">Home</a>
-            <a href="#">Vakantiewoningen</a>
-            <a href="#">Omgeving</a>
-            <a href="#">Contact</a>
-        </div>
-        <div class="login-link">
+
             <a href="inloggen.php">Inloggen</a>
         </div>
     </div>
 </body>
-</html>
+ 
